@@ -1,6 +1,9 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <RootNamespace>DevMelodie</RootNamespace>
+	  <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+	  <EnableDefaultNoneItems>false</EnableDefaultNoneItems>
+	  <EnableDefaultItems>false</EnableDefaultItems>
   </PropertyGroup>
 
 </Project>
